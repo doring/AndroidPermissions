@@ -1,3 +1,2 @@
-include ':permissions'
+include ':android-permissions'
 include ':demo'
-rootProject.name = "Permissions"
