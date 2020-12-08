@@ -80,11 +80,11 @@ bintray {
 
     pkg {
         repo = 'maven'
-        name = 'permissions'
+        name = 'android-permissions'
         licenses = ['Apache-2.0']
         vcsUrl = 'https://github.com/doring/AndroidPermissions.git'
         labels = ['android', 'permission']
-        description = "a library that request android permission sequentially with customized permission"
+        description = "A library that request android permission sequentially with customized permission"
         publish = true
         publicDownloadNumbers = true
         override = true
