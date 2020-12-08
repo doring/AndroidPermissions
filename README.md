@@ -4,13 +4,17 @@ Android-Permissions
 =======
 
 A library that request android permission sequentially with customized permission.
+
 You can find out example of android request permission through the Demo code.
 
+
 **Grant all permissions**
-![](static/all_grant.gif)
+
+<img src="static/all_grant.gif" width="250">
 
 **Deny manifest permissions**
-![](static/deny_manifest_permission.gif)
+
+<img src="static/deny_manifest_permission.gif" width="250">
 
 
 Download
