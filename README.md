@@ -7,10 +7,10 @@ A library that request android permission sequentially with customized permissio
 You can find out example of android request permission through the Demo code.
 
 **Grant all permissions**
-![](static/demo-sticky-header.gif)
+![](static/all_grant.gif)
 
 **Deny manifest permissions**
-![](static/demo-sticky-header.gif)
+![](static/deny_manifest_permission.gif)
 
 
 Download
