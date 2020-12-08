@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permissions Demo</string>
+    <string name="request_permission">Request permission</string>
+    <string name="request_overlay_draw">Request overlay draw</string>
+    <string name="ask_goto_app_setting">Permission request pop up would be never shown.</string>
+    <string name="goto_app_setting">Move to setting screen</string>
+</resources>
